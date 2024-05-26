@@ -46,3 +46,7 @@ PlanetOnboardingBuilder.buildOnboarding(
 ```
 
 You can also have a look at the Examples section in the repo for a real-life example.
+
+## License
+
+**SwiftUIFun** is available under the MIT license. See the [LICENSE](https://github.com/mbieda/swiftui-fun/blob/main/LICENSE.md) file for more info.
