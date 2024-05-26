@@ -13,7 +13,7 @@ enum PlanetConstants {
     }
 }
 
-extension Color {
+public extension Color {
     static let justBlack: Self = .init(red: 46/255, green: 46/255, blue: 46/255)
     static let justWhite: Self = .init(red: 254/255, green: 254/255, blue: 254/255)
     static let justPrimary: Self = .init(red: 9/255, green: 26/255, blue: 86/255)
